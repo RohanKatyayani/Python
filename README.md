@@ -1,4 +1,4 @@
-# 🐍 Daily Python Practice 🚀
+# 🐍 Python Practice 🚀
 
 Welcome to my personal Python practice repository!  
 I'm rebuilding my Python skills from the ground up, one day at a time, with a mission to gain master-level fluency. 💪
@@ -8,13 +8,13 @@ I'm rebuilding my Python skills from the ground up, one day at a time, with a mi
 ## 🎯 Goal
 
 To become so good at Python that I can code confidently, fluently, and logically, even if someone wakes me up in the middle of the night!  
-This repo documents my daily learning, logic building, and problem-solving journey.
+This repo documents my learning, logic building, and problem-solving journey.
 
 ---
 
 ## 📅 Plan
 
-- ⏱️ **Daily commitment**: At least one Python session every day
+- ⏱️ **commitment**: At least one Python session every few days
 - 📚 **From scratch**: Basics → Data Structures → OOP → Projects → Real-world use
 - 🔁 **Revisions** built-in regularly
 - 📂 Code files + notes organized by day
